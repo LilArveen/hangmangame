@@ -1,3 +1,3 @@
 # hangmangame
-s text based hangman game
-A simple hangman text based game.
+A text based hangman game
+Pretty simple. Words are often pretty hard
